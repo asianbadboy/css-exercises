@@ -1,0 +1,18 @@
+.odd {
+    color: #000000;
+    background-color: #ffa500;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd.cool {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #4eff2f;
+    font-weight: bold;
+}
