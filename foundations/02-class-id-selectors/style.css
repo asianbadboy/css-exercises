@@ -1,6 +1,6 @@
 .odd {
-    color: #000000;
     background-color: #ffa500;
+    font-family: Verdana, sans-serif;
 }
 
 #two {
@@ -15,4 +15,5 @@
 #four {
     background-color: #4eff2f;
     font-weight: bold;
+    font-size: 24px;
 }
